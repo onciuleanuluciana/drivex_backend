@@ -30,7 +30,7 @@
     "id": 4,
     "title": "Porsche 911 GT3",
     "engine": "4.0 Flat-6 - 510 CP",
-    "price": 500,
+    "price": 250,
     "warranty": 500,
     "image": "porche.png",
     "isRented": false
